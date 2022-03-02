@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jaffindale
+- 👀 I’m interested in Python, JAVA, C#
+- 🌱 I’m currently learning ... JAVA
+- 💞️ I’m looking to collaborate on ... apps
+- 📫 How to reach me ... jaffindale@gmail.com
